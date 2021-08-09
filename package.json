@@ -105,9 +105,6 @@
 	},
 	"dependencies": {
 		"@babel/core": "7.14.6",
-		"express": "*",
-		"body-parser": "*",
-		"bcrypt": "^0.8.5",
 		"@babel/plugin-proposal-decorators": "7.14.5",
 		"@babel/preset-react": "7.14.5",
 		"@babel/register": "7.14.5",
