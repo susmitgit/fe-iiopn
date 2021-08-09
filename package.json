@@ -10,6 +10,9 @@
 		"start": "node bin/server.js",
 		"test": "karma start"
 	},
+	"engines": {
+		"node": "12.22.4"
+	},
 	"repository": {
 		"type": "git",
 		"url": ""
